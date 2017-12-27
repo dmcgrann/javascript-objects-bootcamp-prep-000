@@ -4,6 +4,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return ({}, playlist, { 'Phil Ochs': "Here\'s to the State of Mississippi" })
 }
 
-function removeFromPlaylist(playlist, Kanye, Gold Digger) {
+function removeFromPlaylist(playlist, 'Kanye', 'Gold Digger') {
   return playlist
 }
